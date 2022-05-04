@@ -1,0 +1,3 @@
+## :video_game: Repositório do Desafio de Projeto 'Recriando a Interface da Netflix':video_game:
+
+<div style="text-align: justify">Desafio realizado dentro do BootCamp Carrefour Web Developer sob mentoria da DIO de recriar uma página similar à da Netflix. Foram utilizadas tecnologias simples como HTML, CSS3 e JavaScript - bem como plugins JQuery - na confecção do projeto 'Gameflix', em que se idealiza uma plataforma de streaming de games nos mesmos moldes da gigante do streaming.</div>
